@@ -11,6 +11,7 @@ look at an image guide on https://creativesuzi33.github.io
 Have a good time with my application Theoria and learn more.
 
 Infornatics which is specialized on programming: https://medium.com/@suziann33/informatics-which-is-specialized-on-programming-3dc834073a82
+
 Video: https://youtube.com/shorts/TVlpU0JmFQU?feature=shared
 
 SK:
