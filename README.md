@@ -10,6 +10,8 @@ If you do not understand how to work with Android application Theoria after the 
 look at an image guide on https://creativesuzi33.github.io
 Have a good time with my application Theoria and learn more.
 
+Video: https://youtube.com/shorts/TVlpU0JmFQU?feature=shared
+
 SK:
 Theoria je aplikácia pre developerov, dizajnérov a tých, ktorí sa chcú naučiť programovať.
 Stiahnete si ju zadarmo kliknutím na zelené tlačítko CODE a potom na Download ZIP.
